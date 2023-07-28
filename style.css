@@ -1,0 +1,40 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+.flag{
+    width: 600px;
+    margin: 40px;
+}
+
+#one,
+#two,
+#three{
+    height: 150px;
+    background-color: rgba(22, 223, 15, 0.945);
+}
+
+#two{
+    background-color: red;
+}
+
+#three{
+    background-color: rgb(80, 32, 32);
+}
+
+#one2,
+#two2{
+    height: 400px;
+    background-color: rgba(255, 255, 255, 0.945);
+}
+
+#circulo{
+    height: 180px;
+    background-color: red;
+    border-radius: 50%;
+    width: 180px;
+    margin-left: 210px;
+    margin-top: -290px;
+
+}
